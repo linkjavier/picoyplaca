@@ -8,7 +8,7 @@ This project has development tests with Unittest
 
 === To run the program: ===
 
-$ python3 picoyplate.py
+$ python3 picoyplaca.py
 
 === To run the Tests: ===
 
